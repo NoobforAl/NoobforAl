@@ -5,7 +5,7 @@
 - 📫 How to reach me ? send email ;)
 - 📧 Email: FarshadSarmali@pm.me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoobforAl&show_icons=true&theme=dracula)  
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoobforAl&show_icons=true&theme=dracula)  --->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobforAl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
