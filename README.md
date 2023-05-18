@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/7dae04ad-9fb6-4918-a864-d33fd4947a05.svg)](https://wakatime.com/@7dae04ad-9fb6-4918-a864-d33fd4947a05)
+[![wakatime](https://wakatime.com/badge/user/7dae04ad-9fb6-4918-a864-d33fd4947a05.svg)](https://wakatime.com/@7dae04ad-9fb6-4918-a864-d33fd4947a05) [![codewars](https://www.codewars.com/users/NoobforAl/badges/micro)](https://www.codewars.com/users/NoobforAl)
 
 - 👋 Hi, I’m @NoobforAl, you can call me Farshad!
 - 👀 I’m interested in Python, Go and frenchFries 🍟 XD
